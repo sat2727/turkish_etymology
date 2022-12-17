@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+examples/
+materials/
+etymology_v1.py
+etymology_v2.py
